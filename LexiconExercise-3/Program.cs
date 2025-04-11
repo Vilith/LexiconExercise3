@@ -6,6 +6,7 @@ using System.Diagnostics;
 
 namespace LexiconExercise_3
 {
+    //Note to self or anyone reading. Commit and push often. Lets say i messed up on that part this time around. This program is pretty messy.
     internal class Program
     {
         static void Main(string[] args)
